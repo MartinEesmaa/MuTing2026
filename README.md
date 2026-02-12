@@ -17,7 +17,7 @@ Minu tingimused teha valmis 2026. aastal (inglise keeles):
 - Make more details of my GameBanana profile
 - Release unreleased finished & cancelled PowerPoint project files.
 - Release unreleased game footages of old years
-- Release my old unfinished English subtitle of Saamuel Internet
+- Release my old unfinished Estonian subtitle of Saamuel Internet
 - Polish from old simple website design into new web nostalgia design (martineesmaa.org)
 - Retrieve my old newsletters updates from my email account
 - Release unreleased finished of my old GoAnimate animation using Wrapper Offline
