@@ -4,6 +4,20 @@ Martin Eesmaa tingimused 2026. aastal (inglise keeles)
 
 Minu tingimused teha valmis 2026. aastal (inglise keeles):
 
+## Tehtud / Done
+
+Release my old unfinished Estonian subtitle of Saamuel Internet (12.02.2026)
+
+The subtitle file I made last edit was 17th August 2019. Here is the subtitle file: [Estonian subtitle](tekst/Saamueli%20internet.srt).
+
+---
+
+Registered Rumble account and invitation request pending of Archive's Our Own account: February 22, 2026 (waiting list number 119728).
+
+Rumble: <https://rumble.com/user/MartinEesmaa>
+
+Archive of Our Own: Not Yet
+
 ## Teha valmis / To-Do
 
 ```text
@@ -12,12 +26,11 @@ Minu tingimused teha valmis 2026. aastal (inglise keeles):
 - Release my some download files, but double checking always before releasing to the public
 - Finish up softwares project versions of Martin Eesmaa's Halloween Short Film
 - Release The Adventure Life DVD version with unseen footages, lost blender film shots, characters, outtakes and unfinished scenes. (I already made DVD cover back in 2023, but haven't released yet)
-- Open new account and register Archive's Our Own Beta, Rumble and ArtStation.
+- Open new account and register ArtStation.
 - Release my unreleased fictions and arts to the public
 - Make more details of my GameBanana profile
 - Release unreleased finished & cancelled PowerPoint project files.
 - Release unreleased game footages of old years
-- Release my old unfinished Estonian subtitle of Saamuel Internet
 - Polish from old simple website design into new web nostalgia design (martineesmaa.org)
 - Retrieve my old newsletters updates from my email account
 - Release unreleased finished of my old GoAnimate animation using Wrapper Offline

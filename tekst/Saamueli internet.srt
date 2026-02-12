@@ -1,0 +1,356 @@
+﻿Track 1 = Eesti - Estonian
+
+1
+00:00:03,851 --> 00:00:12,100
+(NUKUFILM ALGAB)
+
+2
+00:00:18,851 --> 00:00:20,602
+(KUKK HÄÄLITSEB)
+
+3
+00:00:20,602 --> 00:00:28,602
+(POSTIMEES LAULAB)
+
+4
+00:00:39,602 --> 00:00:40,551
+(NUUSUTAB NUTMIST JA RÕÕMUS)
+
+5
+00:00:43,602 --> 00:00:49,000
+(MÄNGIB ARVUTIT)
+
+6
+00:00:49,001 --> 00:00:51,122
+Saamuel: Ma katsu siia taha.
+
+7
+00:00:53,151 --> 00:00:53,852
+Saamuel: ANNA JALAGA!
+
+8
+00:00:54,602 --> 00:00:55,751
+JALAGA PAINAS!
+
+9
+00:00:56,051 --> 00:00:56,751
+JALAGA!
+
+10
+00:00:57,401 --> 00:00:57,902
+AI!
+
+11
+00:00:58,000 --> 00:00:58,402
+GRRRR...
+
+12
+00:00:59,403 --> 00:01:00,903
+(PUUKSUTAB)
+
+13
+00:01:01,521 --> 00:01:02,051
+Oota väikse.
+
+14
+00:01:03,553 --> 00:01:06,300
+Las ma saan... Las ma... Kuidas ma teen?
+
+15
+00:01:06,801 --> 00:01:08,002
+Las lahti-
+
+16
+00:01:08,101 --> 00:01:11,101
+KURAT! LASKE LAHTI MA ÜTLEN SULLE LASE LAHTI!
+
+17
+00:01:11,951 --> 00:01:12,701
+Parm küll!
+
+18
+00:01:14,752 --> 00:01:17,502
+MIS SINA SIGA ISTUD ARVUTI TAGA KUI MÄNGIDA EI PEA OSKA?
+(MÄNG LÕPP)
+
+19
+00:01:19,322 --> 00:01:21,572
+(JOOB ALKOHOL VODKA)
+
+20
+00:01:22,501 --> 00:01:23,752
+See on eestlased...
+
+21
+00:01:24,251 --> 00:01:26,752
+Õnnetus, et loll on palju.
+
+22
+00:01:28,000 --> 00:01:30,000
+Noh siga, lase leiutised tulla.
+
+23
+00:01:35,042 --> 00:01:36,591
+(ŠEKSI MUUSIKA)
+
+24
+00:01:36,593 --> 00:01:37,907
+(SAAMUEL NAERAB)
+
+25
+00:01:38,401 --> 00:01:40,003
+Kelmikas sajab...
+
+26
+00:01:41,400 --> 00:01:42,901
+Minu nunnu...
+
+27
+00:01:44,002 --> 00:01:51,003
+(ŠEKSIB EDASI)
+
+28
+00:01:51,500 --> 00:01:53,253
+Kuule jälle lollakatikajalam!
+
+29
+00:01:55,022 --> 00:01:57,271
+Ei noh tõesti. Loll mis loll.
+
+30
+00:01:57,751 --> 00:01:58,501
+See on internet!
+
+31
+00:01:59,650 --> 00:02:01,151
+Tänapäeva ei saa teisiti.
+
+32
+00:02:01,651 --> 00:02:06,152
+Uus sajand, näed sina võid jääda mõõdu sajandise venelemaalt.
+
+33
+00:02:07,502 --> 00:02:12,004
+Aga mina olen igaviimase ihukõrvani uue saja inimene
+
+34
+00:02:12,202 --> 00:02:12,951
+HMH!
+
+35
+00:02:13,102 --> 00:02:15,602
+Ja sellest sajab maksab ainult info.
+
+36
+00:02:16,002 --> 00:02:16,954
+ÄRA LÄRA! 
+
+37
+00:02:17,254 --> 00:02:18,502
+Küll ma tean, mis sinu info.
+
+38
+00:02:18,855 --> 00:02:22,103
+Paljasnaisi vaid vist kastist taevast ja seal on su karvad.
+
+39
+00:02:22,754 --> 00:02:23,254
+(NAERAB)
+
+40
+00:02:23,792 --> 00:02:24,794
+Kivimustohkar.
+
+41
+00:02:25,154 --> 00:02:25,900
+Ise oled loll.
+
+42
+00:02:26,651 --> 00:02:28,654
+Ei tea millestgi midagi.
+
+43
+00:02:29,792 --> 00:02:33,460
+Mul jooksevad terve maailma uudised koju kätte.
+
+44
+00:02:33,794 --> 00:02:34,543
+Vaata ainult!
+
+45
+00:02:37,757 --> 00:02:39,555
+Näed, vajutan siia...
+
+46
+00:02:40,303 --> 00:02:40,805
+Print
+
+47
+00:02:41,056 --> 00:02:43,804
+(PRINTIB)
+
+48
+00:02:44,053 --> 00:02:47,033
+Ja uudised on su peos.
+
+49
+00:02:47,532 --> 00:02:48,858
+Nagu korralt tont.
+
+50
+00:02:49,704 --> 00:02:51,603
+Mul on just päris kahju, Saamuel.
+
+51
+00:02:52,113 --> 00:02:54,005
+Nii johannronnik on raske olla.
+
+52
+00:02:54,501 --> 00:02:57,103
+Kirjutasin oma emale, et ka sa oled peast nõtraks jäänud.
+
+53
+00:02:58,104 --> 00:03:00,758
+Küll on mu saatsus raske.
+
+54
+00:03:01,502 --> 00:03:03,250
+Võib olla, lähme ema otse juurde elama.
+
+55
+00:03:04,254 --> 00:03:05,502
+Vaata siia, part!
+
+56
+00:03:06,004 --> 00:03:07,004
+Mine, mine!
+
+57
+00:03:08,553 --> 00:03:12,202
+Mootsalt mehel polegi kedagi peale arvutilt tarvis tead
+
+58
+00:03:12,957 --> 00:03:15,355
+Kus su kiri on? Anna ma saadan selle ära.
+
+59
+00:03:16,103 --> 00:03:17,853
+Kuidas sina seda saadad?
+
+60
+00:03:18,356 --> 00:03:19,811
+Näh, lammas.
+
+61
+00:03:20,006 --> 00:03:20,500
+Arvutiga ikka.
+
+62
+00:03:20,501 --> 00:03:21,059
+Arvutiga ikka.
+(SISSEHELISTAMISEGA ÜHENDAB)
+
+63
+00:03:21,060 --> 00:03:21,656
+(SISSEHELISTAMISEGA ÜHENDAB)
+
+64
+00:03:21,657 --> 00:03:22,761
+Viis pool seal sajal käik.
+(SISSEHELISTAMISEGA ÜHENDAB)
+
+65
+00:03:22,762 --> 00:03:23,758
+(SISSEHELISTAMISEGA ÜHENDAB)
+
+66
+00:03:23,759 --> 00:03:24,503
+Emailiga...
+
+67
+00:03:25,253 --> 00:03:26,254
+Arvad ma näitan?
+
+68
+00:03:28,309 --> 00:03:29,807
+Noh, kus su email, sul on?
+
+69
+00:03:30,056 --> 00:03:30,822
+Ära lära sama.
+
+70
+00:03:31,076 --> 00:03:32,325
+Kao minema.
+
+71
+00:03:32,927 --> 00:03:36,106
+Arvuti ei hakka tööle kui loll inimene lili seisab.
+
+72
+00:03:37,354 --> 00:03:42,655
+Mine raami, paranda mootnaoperatuur vajab puhtust imetolmu.
+
+73
+00:03:43,072 --> 00:03:44,290
+Nohoh, aga kuidas?
+
+74
+00:03:45,034 --> 00:03:46,538
+Suur kalmele "puih".
+
+75
+00:03:47,036 --> 00:03:48,555
+Osta mulle siis tolmuimeja. 
+
+76
+00:03:49,303 --> 00:03:52,556
+Iga üks arvuti rämpsu peab koju ostuks ka midagi kaduliku.
+
+77
+00:03:52,759 --> 00:03:54,558
+Arvutist on igaks asjaks kasu.
+
+78
+00:03:55,554 --> 00:03:56,603
+Kas tolmu välja näeb?
+
+79
+00:03:58,856 --> 00:03:59,354
+Romalt.
+
+80
+00:03:59,704 --> 00:04:00,708
+NÄITA OTSELT!
+
+81
+00:04:04,000 --> 00:04:05,108
+(LÕÕTSUTAB)
+
+82
+00:04:06,103 --> 00:04:11,604
+(ARVUTI KEERUTAB HÄÄL)
+
+83
+00:04:12,000 --> 00:04:14,000
+(MUUSIKA ALGAB)
+
+84
+00:04:48,000 --> 00:04:49,104
+(OHKAB)
+
+85
+00:04:54,000 --> 00:04:56,000
+Imelik koht nagu kook.
+
+86
+00:04:56,500 --> 00:04:58,002
+Mul mägi viilitsa võib.
+
+87
+00:05:00,000 --> 00:05:02,506
+(NUTAB)
+
+88
+
+
