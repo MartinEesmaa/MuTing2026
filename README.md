@@ -4,6 +4,8 @@ Martin Eesmaa tingimused 2026. aastal (inglise keeles)
 
 Minu tingimused teha valmis 2026. aastal (inglise keeles):
 
+## Teha valmis / To-Do
+
 ```text
 - Release unreleased, some old deleted & childhood videos to YouTube and Odysee
 - Release COMPAQ old recovery disk for archival and recovery purposes only
@@ -33,8 +35,17 @@ Minu tingimused teha valmis 2026. aastal (inglise keeles):
 - Release unreleased 3D scanned objects from photos
 - Publish more photos locations to my Google Maps contributor profile
 - Release old unused Blender film shots
-- Open up new TeamSpeak server of VVCEasy (if possible)
 - More updates of VVCEasy features
 ```
+
+## Katkestatud/cancelled
+
+1: TeamSpeak
+
+```text
+- Open up new TeamSpeak server of VVCEasy (if possible)
+```
+
+Reason: TeamSpeak 3 free license allows maximum 32 users for 1 Virtual server and also TeamSpeak 6 licensing are paid subscriptions unless self host. 12.02.2026
 
 - Martin Eesmaa
