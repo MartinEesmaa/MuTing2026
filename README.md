@@ -12,11 +12,15 @@ The subtitle file I made last edit was 17th August 2019. Here is the subtitle fi
 
 ---
 
-Registered Rumble account and invitation request pending of Archive's Our Own account: February 22, 2026 (waiting list number 119728).
+Registered Rumble account and invitation request pending of Archive's Our Own account: February 22, 2026 (waiting list number 113880).
 
 Rumble: <https://rumble.com/user/MartinEesmaa>
 
 Archive of Our Own: Not Yet
+
+---
+
+Make more details of my GameBanana profile is done. (13.02.2026)
 
 ## Teha valmis / To-Do
 
@@ -26,9 +30,7 @@ Archive of Our Own: Not Yet
 - Release my some download files, but double checking always before releasing to the public
 - Finish up softwares project versions of Martin Eesmaa's Halloween Short Film
 - Release The Adventure Life DVD version with unseen footages, lost blender film shots, characters, outtakes and unfinished scenes. (I already made DVD cover back in 2023, but haven't released yet)
-- Open new account and register ArtStation.
 - Release my unreleased fictions and arts to the public
-- Make more details of my GameBanana profile
 - Release unreleased finished & cancelled PowerPoint project files.
 - Release unreleased game footages of old years
 - Polish from old simple website design into new web nostalgia design (martineesmaa.org)
@@ -60,5 +62,13 @@ Archive of Our Own: Not Yet
 ```
 
 Reason: TeamSpeak 3 free license allows maximum 32 users for 1 Virtual server and also TeamSpeak 6 licensing are paid subscriptions unless self host. 12.02.2026
+
+2: Opening new account of ArtStation
+
+```text
+- Open new account and register ArtStation.
+```
+
+Reason: I honestly don't know maybe service uses to train AI for art images... (postponed until June).
 
 - Martin Eesmaa
