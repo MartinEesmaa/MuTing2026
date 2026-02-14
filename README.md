@@ -22,6 +22,18 @@ Archive of Our Own: Not Yet
 
 Make more details of my GameBanana profile is done. (13.02.2026)
 
+---
+
+Old Warmux replays are released on Internet Archive (13.02.2026):
+
+<https://archive.org/details/martineesmaa-wxrps2019>
+
+---
+
+The Asciinema cast files and GitHub Actions replay public log files are released on 14th February 2026.
+
+<https://archive.org/details/martineesmaa-asciigar2025>
+
 ## Teha valmis / To-Do
 
 ```text
@@ -33,11 +45,10 @@ Make more details of my GameBanana profile is done. (13.02.2026)
 - Release my unreleased fictions and arts to the public
 - Release unreleased finished & cancelled PowerPoint project files.
 - Release unreleased game footages of old years
-- Polish from old simple website design into new web nostalgia design (martineesmaa.org)
+- Polish it from old simple website design into new retro 90s style design (martineesmaa.org)
 - Retrieve my old newsletters updates from my email account
 - Release unreleased finished of my old GoAnimate animation using Wrapper Offline
 - Release old Minecraft source worlds
-- Release old Warmux recordings
 - Release cancelled stop motion films
 - Switching from Windows to Linux in 2026 sooner
 - Make new backups of hard drives, but M-Disc and LTO would be still okay.
@@ -45,7 +56,6 @@ Make more details of my GameBanana profile is done. (13.02.2026)
 - Update cover art banner
 - Archive all my GitHub repositories to Internet Archive
 - Upload all my 500 SWF archived files from Lastekas to Flashpoint Archive
-- More cast files and public log files to be archived
 - Dub more languages of Martin Eesmaa's Halloween Short Film (already done Estonian and Polish)
 - Release unreleased 3D scanned objects from photos
 - Publish more photos locations to my Google Maps contributor profile
