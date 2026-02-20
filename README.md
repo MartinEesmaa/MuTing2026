@@ -38,7 +38,6 @@ The Asciinema cast files and GitHub Actions replay public log files are released
 
 ```text
 - Release unreleased, some old deleted & childhood videos to YouTube and Odysee
-- Release COMPAQ old recovery disk for archival and recovery purposes only
 - Release my some download files, but double checking always before releasing to the public
 - Finish up softwares project versions of Martin Eesmaa's Halloween Short Film
 - Release The Adventure Life DVD version with unseen footages, lost blender film shots, characters, outtakes and unfinished scenes. (I already made DVD cover back in 2023, but haven't released yet)
@@ -80,5 +79,15 @@ Reason: TeamSpeak 3 free license allows maximum 32 users for 1 Virtual server an
 ```
 
 Reason: I honestly don't know maybe service uses to train AI for art images... (postponed until June).
+
+3: HP COMPAQ Presario CQ62 old recovery disk from HDD dump
+
+```text
+- Release COMPAQ old recovery disk for archival and recovery purposes only
+```
+
+Reason: There's already available dumped of set recovery discs on Internet Archive. Dumped HDD recovery disk contains may be log files and other things.
+
+Already available from physical recovery discs: <https://archive.org/details/compaq-cq62-recover-disc>
 
 - Martin Eesmaa
