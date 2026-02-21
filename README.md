@@ -12,7 +12,7 @@ The subtitle file I made last edit was 17th August 2019. Here is the subtitle fi
 
 ---
 
-Registered Rumble account and invitation request pending of Archive's Our Own account: February 22, 2026 (waiting list number 113880).
+Registered Rumble account and invitation request pending of Archive's Our Own account: February 22, 2026 (waiting list number 17564).
 
 Rumble: <https://rumble.com/user/MartinEesmaa>
 
