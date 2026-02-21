@@ -34,6 +34,12 @@ The Asciinema cast files and GitHub Actions replay public log files are released
 
 <https://archive.org/details/martineesmaa-asciigar2025>
 
+---
+
+Martin Eesmaa's Polycam 3D scanned objects unpublished is now published on Internet Archive.
+
+<https://archive.org/details/polycam-MartinEesmaa2024>
+
 ## Teha valmis / To-Do
 
 ```text
@@ -56,7 +62,6 @@ The Asciinema cast files and GitHub Actions replay public log files are released
 - Archive all my GitHub repositories to Internet Archive
 - Upload all my 500 SWF archived files from Lastekas to Flashpoint Archive
 - Dub more languages of Martin Eesmaa's Halloween Short Film (already done Estonian and Polish)
-- Release unreleased 3D scanned objects from photos
 - Publish more photos locations to my Google Maps contributor profile
 - Release old unused Blender film shots
 - More updates of VVCEasy features
