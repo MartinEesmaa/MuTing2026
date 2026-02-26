@@ -16,7 +16,7 @@ Registered Rumble account and invitation request pending of Archive's Our Own ac
 
 Rumble: <https://rumble.com/user/MartinEesmaa>
 
-Archive of Our Own: Not Yet
+Archive of Our Own: <https://archiveofourown.org/users/MartinEesmaa/>
 
 ---
 
@@ -40,6 +40,16 @@ Martin Eesmaa's Polycam 3D scanned objects unpublished is now published on Inter
 
 <https://archive.org/details/polycam-MartinEesmaa2024>
 
+---
+
+Full Blender 3D animation scenes with unused shots are released on YouTube:
+
+<https://www.youtube.com/watch?v=XiDQGR0Z_VY>
+
+New photos were published to Google Maps contributor profile (in-progress):
+
+<https://www.google.com/maps/contrib/100582825740061721848/>
+
 ## Teha valmis / To-Do
 
 ```text
@@ -62,8 +72,6 @@ Martin Eesmaa's Polycam 3D scanned objects unpublished is now published on Inter
 - Archive all my GitHub repositories to Internet Archive
 - Upload all my 500 SWF archived files from Lastekas to Flashpoint Archive
 - Dub more languages of Martin Eesmaa's Halloween Short Film (already done Estonian and Polish)
-- Publish more photos locations to my Google Maps contributor profile
-- Release old unused Blender film shots
 - More updates of VVCEasy features
 ```
 
