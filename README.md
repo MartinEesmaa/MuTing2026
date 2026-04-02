@@ -67,7 +67,6 @@ New photos were published to Google Maps contributor profile (in-progress):
 - Release cancelled stop motion films
 - Switching from Windows to Linux in 2026 sooner
 - Make new backups of hard drives, but M-Disc and LTO would be still okay.
-- Managing my own Newgrounds account and uploading old contents
 - Update cover art banner
 - Archive all my GitHub repositories to Internet Archive
 - Upload all my 500 SWF archived files from Lastekas to Flashpoint Archive
@@ -102,5 +101,13 @@ Reason: I honestly don't know maybe service uses to train AI for art images... (
 Reason: There's already available dumped of set recovery discs on Internet Archive. Dumped HDD recovery disk contains may be log files and other things.
 
 Already available from physical recovery discs: <https://archive.org/details/compaq-cq62-recover-disc>
+
+4: Newgrounds management
+
+```text
+Managing my own Newgrounds account and uploading old contents
+```
+
+Reason: Maybe it's not going to work for my old arts anyways due to unrecognized.
 
 - Martin Eesmaa
